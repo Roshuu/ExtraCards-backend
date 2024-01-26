@@ -1,7 +1,5 @@
-# Dokumentacja Aplikacji TavelloWeB
- 
-> Aplikacja TravelloWeb stworzona za pomocą technologi .NET wraz z wykorzystaniem języka C#. To narzędzie służy do rejestrowania, logowania, dodawania ogłoszeń wycieczek podróży, przeglądania ogłoszeń i rezerwacji biletów.
- 
+# Dokumentacja Aplikacji ExtraCards
+  
 ## Spis Treści
 * [Informacje Ogólne](#informacje-ogólne)
 * [Technologie Użyte](#technologie-użyte)
